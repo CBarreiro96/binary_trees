@@ -23,11 +23,46 @@
 
 * **SIBLING** are children of same parent
 * **UNCLE OF A NODE** are siblings of that node's parent.
+## :book: Learning :book:
+In this part, you find  some question that you should to learn in this exercise, in this part there are some definition about this question, however if you feel that you need to find a lot of other information you can search in google and in the next section("information") you can  read these.
 
+Before to respond  a would like to introduce about the tree:
 
+**Tree** is  is recursively defined as a set of one or more nodes where one node is designated as the root of the tree and all the remaining nodes can be partitioned into non-empty sets each of which is a sub-tree of the root.
+
+In the trees you can find 6 **types** of tree:
+
+1) *General trees*
+2) *Forest*
+3) *Binary trees*
+4) *Binary search trees*
+5) *expression trees*
+6) *Tournament trees*
+
+Already, you have known the types of tree we are3 going to know the binary tree 
+1)   **What is a binary tree**
+
+2) **What is the difference between a binary tree and a Binary Search Tree**
+
+	  Compare | Binary tree | search binary
+	  --- | --- | ---
+	  Definition | Binary Tree is a hierarchical data structure in which a child can have zero, one, or maximum two child nodes that  there's not particular order to how the nodes should be organized in the tree| It is a variant of binary tree  in which the nodes are arranged in an order
+	  Operation | Binary tree can be anything that has two children and one parent.(OPeration insertion, deletion and traversal) | Binary search trees are more of sorted binary trees that allows for fast and efficient lookup(Insertion and deletion of item)
+
+  
+3) **What is the possible gain in terms of time complexity compared to linked lists**
+4) **What are the depth, the height, the size of a binary tree**
+5) **What are the different traversal methods to go through a binary tree**
+6) **What is a complete, a full, a perfect, a balanced binary tree**
+
+## :books: Information :books:
+* DATA STRUCTURES AND ALGORITHMS MADE EASY-Narasimha Karumanchi
+* [Data Structure and Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/tree_data_structure.htm)
+* [Tree transversal](https://www.tutorialspoint.com/data_structures_algorithms/tree_traversal.htm)
 ## :memo: Description about activities :memo:
 In this repository you can find some exercise of Binery trees, I mean , It is a introduccion about binary tree. IN follow item.
-## :book: Information :book:
+
+
 
 
 
