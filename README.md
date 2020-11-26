@@ -5,10 +5,30 @@
 <img src="https://user-images.githubusercontent.com/66263776/100120963-90fcb100-2e46-11eb-802a-891f060e49d1.png" width="600" height= "300">
 </p>
 
-## :book: Information :book:
+## :notebook_with_decorative_cover: Glossary :notebook_with_decorative_cover:
+<p align="center">
+<img src="https://user-images.githubusercontent.com/66263776/100281718-6f7bf200-2f38-11eb-995f-2a96d4e22fb5.png" width="200" height= "150">
+</p>
+
+* **ROOT:** is the node with no parents. How you can see the image is A
+* **LEAF** is a node with no children. In the image we can E, J, K ,H and I are leaf.
+* **DEPTH OF A NODE** is the length of the path from the root to the node
+* **HEIGHT OF A NODE** is the length of the path from that node to the deepest node. For example in the image the height of B is 2 (B – F – J).
+* **SIZE OF A NODE** is the number of of descendants it has including itself for example the size of the subtree C is 3
+* **FULL NODE** are nodes which has both left and right children as non-empty.
+* **PERFECT BINARY TREE**  is a type of binary tree in which every internal node has exactly two child nodes and all the leaf nodes are at the same level.
+<p align="center">
+<img src="https://user-images.githubusercontent.com/66263776/100295041-8a5d5f00-2f56-11eb-8bfd-f137135ce5ff.png" width="150" height= "100">
+</p>
+
+* **SIBLING** are children of same parent 
+
 
 ## :memo: Description about activities :memo:
 In this repository you can find some exercise of Binery trees, I mean , It is a introduccion about binary tree. IN follow item.
+## :book: Information :book:
+
+
 
 ### :interrobang: Question :thinking:
 #### [New node](https://github.com/CBarreiro96/binary_trees/blob/master/0-binary_tree_node.c)
@@ -96,7 +116,7 @@ alex@/tmp/binary_trees$ ./1-left
 (012)          (128)                                            
 user@/tmp/binary_trees$
 ```
-#### [Insert right](https://github.com/CBarreiro96/binary_trees/blob/master/2-binary_tree_insert_right.c)ç
+#### [Insert right](https://github.com/CBarreiro96/binary_trees/blob/master/2-binary_tree_insert_right.c)
 Write a function that inserts a node as the right-child of another node
 
 * Prototype: binary_tree_t *binary_tree_insert_right(binary_tree_t *parent, int value);
