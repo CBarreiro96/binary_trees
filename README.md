@@ -21,7 +21,8 @@
 <img src="https://user-images.githubusercontent.com/66263776/100295041-8a5d5f00-2f56-11eb-8bfd-f137135ce5ff.png" width="150" height= "100">
 </p>
 
-* **SIBLING** are children of same parent 
+* **SIBLING** are children of same parent
+* **UNCLE OF A NODE** are siblings of that node's parent.
 
 
 ## :memo: Description about activities :memo:
@@ -210,3 +211,5 @@ Is 402 a leaf: 1
 user@/tmp/binary_trees$
 
 ```
+## AUTHOR
+:man_technologist: Camilo Barreiro/ [CBarreiro96](https://github.com/CBarreiro96)
